@@ -1,0 +1,101 @@
+#full-width {
+    width: 100%;
+    align-items: center;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+#centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: xx-large;
+
+
+}
+
+.donation {
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-color: tomato;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+h1 {
+    text-align: center;
+    top: 40px;
+    left: 50%;
+
+}
+
+.half-width-d {
+    text-align: center;
+}
+
+#donation-d {
+    background-color: tomato;
+}
+
+h5 {
+    text-align: center;
+
+}
+
+.diet-plan-1 {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+#diet-plan-2 {
+    border-left: 7px solid tomato;
+}
+
+#diet-plan-3 {
+    border-left: 7px solid tomato;
+}
+
+#diet-plan-4 {
+    border-left: 7px solid tomato;
+}
+
+.diet-special {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 70%;
+    padding-left: 50px;
+}
+
+footer p {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+.container {
+    background-color: tomato;
+
+}
